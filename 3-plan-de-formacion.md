@@ -24,6 +24,9 @@ Este plan de formación debe tener en cuenta:
 
 - Todo el personal debe recibir una formación y concienciación iniciales:
 - La formación estará más orientada al personal técnico que desempeñe funciones directas sobre la seguridad, la configuración de sistemas, el tratamiento de la información, la gestión de incidentes, etc. El resto del personal recibirá una formación básica en técnicas de ciberseguridad y buenas prácticas en el puesto de trabajo.
+
+---
+
 - La concienciación se hará de manera general para todo el personal de la organización.
 - La concienciación y la formación deben refrescarse y actualizarse regularmente:
 - La formación debe actualizarse cada vez que se producen cambios en el sistema, ya sean de hardware, software o instalaciones de red, entre otros.
@@ -57,6 +60,9 @@ Dependiendo de que servicios use la organización también tendremos que tenerlo
 
 - **Web**: En muchas ocasiones la web no es solo un frontend para los clientes, sino que también es un frontend para los empleados. Por lo tanto, es importante que los empleados conozcan los riesgos asociados a la web y cómo protegerse.
 - **Almacenamiento en la nube**: Es fácil no cumplir con la normativa legal de protección de datos si no se tiene en cuenta que los datos están en la nube.
+
+---
+
 - **Correo electrónico**: Es el principal vector de ataque. Es importante que los empleados sepan cómo identificar correos maliciosos y cómo actuar en caso de recibir uno.
 - **Redes sociales**: Es importante que los empleados sepan cómo proteger su privacidad y la de la empresa en las redes sociales. La reputación de la empresa puede verse afectada por lo que se comparte en redes sociales.
 
